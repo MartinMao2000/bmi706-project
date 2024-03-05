@@ -1,0 +1,205 @@
+Country,Code,Year,Childhood vaccination policy,country-code,color
+Afghanistan,AFG,2019,No source found,4.0,grey
+Albania,ALB,2019,Mandatory,8.0,#66c2a5
+Algeria,DZA,2019,No source found,12.0,grey
+American Samoa,ASM,2019,No source found,16.0,grey
+Andorra,AND,2019,Mandatory,20.0,#66c2a5
+Angola,AGO,2019,No source found,24.0,grey
+Anguilla,AIA,2019,Mandatory,660.0,#66c2a5
+Antigua and Barbuda,ATG,2019,Mandatory,28.0,#66c2a5
+Argentina,ARG,2019,Mandatory,32.0,#66c2a5
+Armenia,ARM,2019,Recommended,51.0,#8da0cb
+Australia,AUS,2019,Recommended,36.0,#8da0cb
+Austria,AUT,2019,Recommended,40.0,#8da0cb
+Azerbaijan,AZE,2019,Mandatory,31.0,#66c2a5
+Bahamas,BHS,2019,Mandatory,44.0,#66c2a5
+Bahrain,BHR,2019,No source found,48.0,grey
+Bangladesh,BGD,2019,Recommended,50.0,#8da0cb
+Barbados,BRB,2019,Mandatory,52.0,#66c2a5
+Belarus,BLR,2019,Recommended,112.0,#8da0cb
+Belgium,BEL,2019,Mandatory,56.0,#66c2a5
+Belize,BLZ,2019,Mandatory,84.0,#66c2a5
+Benin,BEN,2019,No source found,204.0,grey
+Bermuda,BMU,2019,Recommended,60.0,#8da0cb
+Bhutan,BTN,2019,Mandatory,64.0,#66c2a5
+Bolivia,BOL,2019,Recommended,68.0,#8da0cb
+Bosnia and Herzegovina,BIH,2019,Mandatory,70.0,#66c2a5
+Botswana,BWA,2019,No source found,72.0,grey
+Brazil,BRA,2019,Mandatory,76.0,#66c2a5
+British Virgin Islands,VGB,2019,Mandatory,92.0,#66c2a5
+Brunei,BRN,2019,Mandatory,96.0,#66c2a5
+Bulgaria,BGR,2019,Mandatory,100.0,#66c2a5
+Burkina Faso,BFA,2019,No source found,854.0,grey
+Burundi,BDI,2019,No source found,108.0,grey
+Cambodia,KHM,2019,No source found,116.0,grey
+Cameroon,CMR,2019,No source found,120.0,grey
+Canada,CAN,2019,Recommended,124.0,#8da0cb
+Cape Verde,CPV,2019,No source found,132.0,grey
+Central African Republic,CAF,2019,No source found,140.0,grey
+Chad,TCD,2019,No source found,148.0,grey
+Chile,CHL,2019,Mandatory,152.0,#66c2a5
+China,CHN,2019,Recommended,156.0,#8da0cb
+Colombia,COL,2019,Mandatory for School Entry,170.0,yellow
+Comoros,COM,2019,No source found,174.0,grey
+Congo,COG,2019,No source found,180.0,grey
+Costa Rica,CRI,2019,Mandatory,188.0,#66c2a5
+Cote d'Ivoire,CIV,2019,No source found,384.0,grey
+Croatia,HRV,2019,Mandatory,191.0,#66c2a5
+Cuba,CUB,2019,Mandatory,192.0,#66c2a5
+Cyprus,CYP,2019,Mandatory for School Entry,196.0,yellow
+Czechia,CZE,2019,Mandatory,203.0,#66c2a5
+Democratic Republic of Congo,COD,2019,No source found,178.0,grey
+Denmark,DNK,2019,Recommended,208.0,#8da0cb
+Djibouti,DJI,2019,No source found,262.0,grey
+Dominica,DMA,2019,Mandatory for School Entry,212.0,yellow
+Dominican Republic,DOM,2019,No source found,214.0,grey
+East Timor,TLS,2019,No source found,626.0,grey
+Ecuador,ECU,2019,Mandatory,218.0,#66c2a5
+Egypt,EGY,2019,Mandatory,818.0,#66c2a5
+El Salvador,SLV,2019,Mandatory,222.0,#66c2a5
+Equatorial Guinea,GNQ,2019,No source found,226.0,grey
+Eritrea,ERI,2019,No source found,232.0,grey
+Estonia,EST,2019,Recommended,233.0,#8da0cb
+Eswatini,SWZ,2019,No source found,748.0,grey
+Ethiopia,ETH,2019,Mandatory,231.0,#66c2a5
+Fiji,FJI,2019,No source found,242.0,grey
+Finland,FIN,2019,Recommended,246.0,#8da0cb
+France,FRA,2019,Mandatory,250.0,#66c2a5
+French Guiana,GUF,2019,Mandatory,254.0,#66c2a5
+French Polynesia,PYF,2019,Mandatory,258.0,#66c2a5
+Gabon,GAB,2019,Mandatory,266.0,#66c2a5
+Gambia,GMB,2019,No source found,270.0,grey
+Georgia,GEO,2019,Recommended,268.0,#8da0cb
+Germany,DEU,2019,Mandatory for School Entry,276.0,yellow
+Ghana,GHA,2019,No source found,288.0,grey
+Greece,GRC,2019,Mandatory for School Entry,300.0,yellow
+Grenada,GRD,2019,Mandatory for School Entry,308.0,yellow
+Guam,GUM,2019,Mandatory,316.0,#66c2a5
+Guatemala,GTM,2019,Mandatory,320.0,#66c2a5
+Guinea,GIN,2019,No source found,324.0,grey
+Guinea-Bissau,GNB,2019,No source found,624.0,grey
+Guyana,GUY,2019,Mandatory for School Entry,328.0,yellow
+Haiti,HTI,2019,No source found,332.0,grey
+Honduras,HND,2019,Mandatory for School Entry,340.0,yellow
+Hungary,HUN,2019,Mandatory,348.0,#66c2a5
+Iceland,ISL,2019,Recommended,352.0,#8da0cb
+India,IND,2019,Recommended,356.0,#8da0cb
+Indonesia,IDN,2019,Mandatory,360.0,#66c2a5
+Iran,IRN,2019,Mandatory,364.0,#66c2a5
+Iraq,IRQ,2019,Mandatory for School Entry,368.0,yellow
+Ireland,IRL,2019,Recommended,372.0,#8da0cb
+Israel,ISR,2019,Recommended,376.0,#8da0cb
+Italy,ITA,2019,Mandatory,380.0,#66c2a5
+Jamaica,JAM,2019,Mandatory,388.0,#66c2a5
+Japan,JPN,2019,Recommended,392.0,#8da0cb
+Jordan,JOR,2019,Mandatory,400.0,#66c2a5
+Kazakhstan,KAZ,2019,Mandatory,398.0,#66c2a5
+Kenya,KEN,2019,Recommended,404.0,#8da0cb
+Kiribati,KIR,2019,No source found,296.0,grey
+Kosovo,OWID_KOS,2019,Mandatory,893.0,#66c2a5
+Kuwait,KWT,2019,Mandatory,414.0,#66c2a5
+Kyrgyzstan,KGZ,2019,Mandatory for School Entry,417.0,yellow
+Laos,LAO,2019,No source found,418.0,grey
+Latvia,LVA,2019,Mandatory,428.0,#66c2a5
+Lebanon,LBN,2019,Mandatory,422.0,#66c2a5
+Lesotho,LSO,2019,Mandatory,426.0,#66c2a5
+Liberia,LBR,2019,Mandatory,430.0,#66c2a5
+Libya,LBY,2019,Mandatory,434.0,#66c2a5
+Liechtenstein,LIE,2019,Recommended,438.0,#8da0cb
+Lithuania,LTU,2019,Recommended,440.0,#8da0cb
+Luxembourg,LUX,2019,Recommended,442.0,#8da0cb
+Madagascar,MDG,2019,No source found,450.0,grey
+Malawi,MWI,2019,No source found,454.0,grey
+Malaysia,MYS,2019,Recommended,458.0,#8da0cb
+Maldives,MDV,2019,Mandatory for School Entry,462.0,yellow
+Mali,MLI,2019,Mandatory,466.0,#66c2a5
+Malta,MLT,2019,Mandatory,470.0,#66c2a5
+Marshall Islands,MHL,2019,Mandatory,584.0,#66c2a5
+Mauritania,MRT,2019,No source found,478.0,grey
+Mauritius,MUS,2019,No source found,480.0,grey
+Mayotte,MYT,2019,Mandatory,175.0,#66c2a5
+Mexico,MEX,2019,Mandatory,484.0,#66c2a5
+Micronesia (country),FSM,2019,Mandatory,57.0,#66c2a5
+Moldova,MDA,2019,Mandatory for School Entry,498.0,yellow
+Monaco,MCO,2019,Mandatory,492.0,#66c2a5
+Mongolia,MNG,2019,Mandatory,496.0,#66c2a5
+Montenegro,MNE,2019,Mandatory,499.0,#66c2a5
+Morocco,MAR,2019,No source found,504.0,grey
+Mozambique,MOZ,2019,No source found,508.0,grey
+Myanmar,MMR,2019,No source found,104.0,grey
+Namibia,NAM,2019,No source found,516.0,grey
+Nepal,NPL,2019,Mandatory,524.0,#66c2a5
+Netherlands,NLD,2019,Recommended,528.0,#8da0cb
+New Caledonia,NCL,2019,Mandatory,540.0,#66c2a5
+New Zealand,NZL,2019,Recommended,554.0,#8da0cb
+Nicaragua,NIC,2019,Mandatory,558.0,#66c2a5
+Niger,NER,2019,No source found,562.0,grey
+Nigeria,NGA,2019,Mandatory,566.0,#66c2a5
+Niue,NIU,2019,No source found,570.0,grey
+North Korea,PRK,2019,No source found,408.0,grey
+North Macedonia,MKD,2019,Mandatory,807.0,#66c2a5
+Norway,NOR,2019,Recommended,578.0,#8da0cb
+Oman,OMN,2019,Mandatory,512.0,#66c2a5
+Pakistan,PAK,2019,Mandatory,586.0,#66c2a5
+Palau,PLW,2019,Mandatory,585.0,#66c2a5
+Panama,PAN,2019,Mandatory,591.0,#66c2a5
+Papua New Guinea,PNG,2019,No source found,598.0,grey
+Paraguay,PRY,2019,Mandatory for School Entry,600.0,yellow
+Peru,PER,2019,Mandatory,604.0,#66c2a5
+Philippines,PHL,2019,Mandatory,608.0,#66c2a5
+Poland,POL,2019,Mandatory,616.0,#66c2a5
+Portugal,PRT,2019,Recommended,620.0,#8da0cb
+Puerto Rico,PRI,2019,Mandatory,630.0,#66c2a5
+Qatar,QAT,2019,Mandatory,634.0,#66c2a5
+Romania,ROU,2019,Recommended,642.0,#8da0cb
+Russia,RUS,2019,Recommended,643.0,#8da0cb
+Rwanda,RWA,2019,No source found,646.0,grey
+Saint Kitts and Nevis,KNA,2019,Mandatory for School Entry,659.0,yellow
+Saint Lucia,LCA,2019,No source found,662.0,grey
+Saint Vincent and the Grenadines,VCT,2019,Mandatory for School Entry,670.0,yellow
+Samoa,WSM,2019,Mandatory,882.0,#66c2a5
+San Marino,SMR,2019,Mandatory,674.0,#66c2a5
+Sao Tome and Principe,STP,2019,No source found,678.0,grey
+Saudi Arabia,SAU,2019,Mandatory,682.0,#66c2a5
+Senegal,SEN,2019,No source found,686.0,grey
+Serbia,SRB,2019,Mandatory,688.0,#66c2a5
+Seychelles,SYC,2019,No source found,690.0,grey
+Sierra Leone,SLE,2019,No source found,694.0,grey
+Singapore,SGP,2019,Mandatory,702.0,#66c2a5
+Sint Eustatius,,2019,Recommended,535.0,#8da0cb
+Slovakia,SVK,2019,Mandatory,703.0,#66c2a5
+Slovenia,SVN,2019,Mandatory,705.0,#66c2a5
+Solomon Islands,SLB,2019,No source found,90.0,grey
+Somalia,SOM,2019,Mandatory,706.0,#66c2a5
+South Africa,ZAF,2019,No source found,710.0,grey
+South Korea,KOR,2019,Mandatory,408.0,#66c2a5
+South Sudan,SSD,2019,No source found,728.0,grey
+Spain,ESP,2019,Recommended,724.0,#8da0cb
+Sri Lanka,LKA,2019,No source found,144.0,grey
+Sudan,SDN,2019,No source found,729.0,grey
+Suriname,SUR,2019,Mandatory,740.0,#66c2a5
+Sweden,SWE,2019,Recommended,752.0,#8da0cb
+Switzerland,CHE,2019,Recommended,756.0,#8da0cb
+Syria,SYR,2019,Mandatory,760.0,#66c2a5
+Taiwan,TWN,2019,Mandatory,158.0,#66c2a5
+Tajikistan,TJK,2019,Mandatory,762.0,#66c2a5
+Tanzania,TZA,2019,No source found,834.0,grey
+Thailand,THA,2019,No source found,764.0,grey
+Togo,TGO,2019,No source found,768.0,grey
+Trinidad and Tobago,TTO,2019,Mandatory,780.0,#66c2a5
+Tunisia,TUN,2019,Mandatory,788.0,#66c2a5
+Turkey,TUR,2019,Recommended,792.0,#8da0cb
+Turkmenistan,TKM,2019,Mandatory,795.0,#66c2a5
+Uganda,UGA,2019,Mandatory,800.0,#66c2a5
+Ukraine,UKR,2019,Mandatory,804.0,#66c2a5
+United Arab Emirates,ARE,2019,Mandatory for School Entry,784.0,yellow
+United Kingdom,GBR,2019,Recommended,826.0,#8da0cb
+United States,USA,2019,Mandatory for School Entry,840.0,yellow
+United States Virgin Islands,VIR,2019,Mandatory for School Entry,850.0,yellow
+Uruguay,URY,2019,Mandatory,858.0,#66c2a5
+Uzbekistan,UZB,2019,Mandatory,860.0,#66c2a5
+Venezuela,VEN,2019,Mandatory,862.0,#66c2a5
+Vietnam,VNM,2019,Mandatory,,#66c2a5
+Yemen,YEM,2019,No source found,887.0,grey
+Zambia,ZMB,2019,No source found,894.0,grey
+Zimbabwe,ZWE,2019,No source found,716.0,grey
