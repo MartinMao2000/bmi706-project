@@ -311,6 +311,7 @@ if choice == "Trends":
 
     
 elif choice == "Death":
+    st.subheader('_How have Deaths caused by vaccine-preventable diseases changed over time?_')
     st.subheader("Deaths caused by vaccine-preventable diseases")
 
     data_path = 'https://raw.githubusercontent.com/MartinMao2000/bmi706-project/main/data/deaths-caused-by-vaccine-preventable-diseases-over-time.csv'
@@ -370,6 +371,7 @@ elif choice == "Death":
 
 elif choice == "Income":
     # Add a title
+    st.subheader('How does Vaccination Coverage vary with GDP over time?')
     st.subheader('Vaccination Coverage by GDP')
 
 
