@@ -370,7 +370,8 @@ elif choice == "Death":
 
 elif choice == "Income":
     # Add a title
-    st.subheader('Vaccination Coverage by Income')
+    st.subheader('Vaccination Coverage by GDP')
+
 
     # Load the data
     vaccination_income_data_path = 'https://raw.githubusercontent.com/MartinMao2000/bmi706-project/main/data/vaccination-coverage-by-income-in.csv'
