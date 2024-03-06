@@ -371,7 +371,7 @@ elif choice == "Death":
 
 elif choice == "Income":
     # Add a title
-    st.subheader('How does Vaccination Coverage vary with GDP over time?')
+    st.subheader('_How does Vaccination Coverage vary with GDP over time?_')
     st.subheader('Vaccination Coverage by GDP')
 
 
